@@ -1,0 +1,1 @@
+answer = ['yes', 'no', 'yes', 'no', 'no']
